@@ -1,16 +1,19 @@
-### Hi, I'm Jorge 👋
-<img>
+### Hi, I'm Jorge 👋 
 
 ```js
 const jor = {
-  pronouns: "he" | "him",
+  pronouns: he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]  
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
 }
 ```
 
 ## You can find me :point_down::
+- [Blog](https://jorgebarcos.com)
+- [Linkedin](https://www.linkedin.com/in/jorgebarcos/)
+- [Facebook](https://web.facebook.com/jbarcos88/)
 
+[![jorgebarcos github stats](https://github-readme-stats.vercel.app/api?username=jorgebarcos)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
