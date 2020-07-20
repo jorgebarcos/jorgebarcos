@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://jorgebarcos.com" target="blank">Jorge!</a> </h1>
+<h1 align="center">Hi 👋, I'm <a href="https://jorgebarcos.com" target="blank">Jorge</a>! </h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgebarcos" alt="jorgebarcos" /> </p>
 
@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jorgebarcos.com/work.html](https://jorgebarcos.com/work.html)
 
-- 🌱 I’m currently learning GraphQL and Phyton; 
+- 🌱 I’m currently learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>, Typescript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>& Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>. 
 
 - 💬 Ask me about **react, javascript and anything about web development**
 
