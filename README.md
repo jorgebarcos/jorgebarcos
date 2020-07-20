@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jorge</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://jorgebarcos.com" target="blank">Jorge!</a> </h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgebarcos" alt="jorgebarcos" /> </p>
 
