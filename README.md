@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm Jorge 👋
+<img>
+
+```js
+const jor = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker]  
+}
+```
+
+## You can find me :point_down::
+
+
 
 <!--
 **jorgebarcos/jorgebarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
