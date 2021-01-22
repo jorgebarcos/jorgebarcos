@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://jorgebarcos.com" target="blank">Jorge</a>! </h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate Front-End & Mobile Developer from Argentina</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgebarcos" alt="jorgebarcos" /> </p>
 
 <img align="right" alt="GIF" height="250" src="https://media2.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47xkcsw5j0xq4htaugauymt9s5id7r0640g06xnvow&rid=giphy.gif" />
