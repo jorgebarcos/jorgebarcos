@@ -53,7 +53,7 @@ const jor = {
 - [Linkedin](https://www.linkedin.com/in/jorgebarcos/)
 - [Facebook](https://web.facebook.com/jbarcos88/)
 
-[![jorgebarcos github stats](https://github-readme-stats.vercel.app/api?username=jorgebarcos)](https://github.com/anuraghazra/github-readme-stats)
+[![jorgebarcos github stats](https://github-readme-stats.vercel.app/api?username=jorgebarcos?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 -->
 
