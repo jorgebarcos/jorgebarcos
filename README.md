@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm <a href="https://jorgebarcos.com" target="blank">Jorge</a>! </h1>
-<h3 align="center">A passionate Front-End & Mobile Developer from Argentina</h3>
+<h3 align="center">A passionate Software Engineer from Argentina</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jorgebarcos" alt="jorgebarcos" /> </p>
 
 <img align="right" alt="GIF" height="250" src="https://media2.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif?cid=ecf05e47xkcsw5j0xq4htaugauymt9s5id7r0640g06xnvow&rid=giphy.gif" />
 
-- 👨‍💻 All of my projects are available at [https://jorgebarcos.com/work.html](https://jorgebarcos.com/work.html)
+<!-- - 👨‍💻 All of my projects are available at [https://jorgebarcos.com/work.html](https://jorgebarcos.com/work.html) -->
 
 - 🌱 I’m currently learning GraphQl  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> & Python <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>. 
 
@@ -32,8 +32,8 @@
   
 </p>
   
-  <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=jorgebarcos&show_icons=true" alt="jorgebarcos" /> </p>
+  <!--<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=jorgebarcos&show_icons=true" alt="jorgebarcos" /> </p>-->
 
 <p align="center">
 <a href="https://linkedin.com/in/jorgebarcos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jorgebarcos" height="20" width="20" /></a>
