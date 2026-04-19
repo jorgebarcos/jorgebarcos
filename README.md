@@ -9,7 +9,7 @@ Me importa la intersección entre ingeniería y diseño.
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/jorgebarcos.com-37D399?style=for-the-badge&logo=astro&logoColor=black)](https://jorgebarcos.com)
+[![Portfolio](https://img.shields.io/badge/jorgebarcos.com-37D399?style=for-the-badge&logo=astro&logoColor=black)](https://jorgebarcos.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jorgebarcos)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorgebarcos88@gmail.com)
 
